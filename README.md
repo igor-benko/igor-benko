@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Senior software developer at [@IPChain association](https://ipchain.global)  
+💻 Senior software developer at [@Wildberries](https://www.wildberries.ru/)  
 
 <!--
 **igor-benko/igor-benko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
